@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234870286523",
+    "firebase_url": "https://achievement-d5cce.firebaseio.com",
+    "project_id": "achievement-d5cce",
+    "storage_bucket": "achievement-d5cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234870286523:android:e92323fc54eeefcd",
+        "android_client_info": {
+          "package_name": "com.example.achievement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234870286523-emdbie0br8ols1jv71elvdaq2v6llvb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQB6n_AQiOPYXeclmSLzUAL6iK_DT6QsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234870286523-emdbie0br8ols1jv71elvdaq2v6llvb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
